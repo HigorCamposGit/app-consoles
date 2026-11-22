@@ -50,9 +50,14 @@ Agradecimento especial ao professor **Felipe Aguiar** e à **Digital Innovation 
 
 - Repositório base: [digitalinnovationone/trilha-react-native-expo-lamborghini-app](https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app)
 
-## Autor
+---
 
-Desenvolvido por **Higor de Campos**.
+## 🤝 Conecte-se Comigo
 
-- LinkedIn: [https://www.linkedin.com/in/higor-de-campos-a3187b16b/](https://www.linkedin.com/in/higor-de-campos-a3187b16b/)
-- GitHub: [https://github.com/HigorCamposGit](https://github.com/HigorCamposGit)
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
+
