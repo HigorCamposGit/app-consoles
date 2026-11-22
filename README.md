@@ -1,6 +1,6 @@
 # Como Consumir API em APPs React Native na Prática
 
-Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** que apresenta um catálogo interativo com os 10 consoles mais marcantes da história dos videogames, com navegação entre cards, exibição de detalhes do console, tela inicial personalizada com logotipo e layout adaptado para dispositivos móveis.
+Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** para a **Formação React Native Developer** que apresenta uma modificaçlão do repo origial, modificação que é um catálogo interativo com os 10 consoles mais marcantes da história dos videogames, com navegação entre cards, exibição de detalhes do console, tela inicial personalizada com logotipo e layout adaptado para dispositivos móveis.
 
 ## Funcionalidades
 
