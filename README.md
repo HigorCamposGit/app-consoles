@@ -29,13 +29,14 @@ Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** p
 - `package.json` — Dependências e scripts do projeto.
 - `README.md` — Documentação do repositório.
 
+----
 ## Como executar o projeto localmente
 
 ### Pré-requisitos
 
 - [Node.js](https://nodejs.org/) instalado na máquina.
 - Aplicativo **Expo Go** instalado no smartphone (Android ou iOS) para testes via rede ou tunnel.
-
+---
 ### Passo a passo
 
 1. Clone o repositório: `git clone https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app`
@@ -44,10 +45,12 @@ Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** p
 4. Inicie o servidor do Expo: `npx expo start --tunnel --clear`
 5. Escaneie o QR Code exibido no terminal usando o aplicativo **Expo Go** no celular.
 
+---
 ## Agradecimentos e créditos
 
 Agradecimento especial ao professor **Felipe Aguiar** e à **Digital Innovation One (DIO)** pelos ensinamentos durante a trilha e pelo projeto base que inspirou esta aplicação:
 
+- GitHub do professor: [felipeAguiarCode](https://github.com/felipeAguiarCode)
 - Repositório base: [digitalinnovationone/trilha-react-native-expo-lamborghini-app](https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app)
 
 ---
