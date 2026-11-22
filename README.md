@@ -1,4 +1,4 @@
-# Top 10 Consoles
+# Como Consumir API em APPs React Native na Prática
 
 Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** que apresenta um catálogo interativo com os 10 consoles mais marcantes da história dos videogames, com navegação entre cards, exibição de detalhes do console, tela inicial personalizada com logotipo e layout adaptado para dispositivos móveis.
 
@@ -8,7 +8,8 @@ Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** q
 - **Catálogo interativo de consoles:** Navegação entre os 10 consoles por meio dos controles inferiores (`<` e `>`), atualizando imagem, posição no ranking, marca, modelo e valor exibido.
 - **Identidade visual própria:** Tema escuro padronizado (`#1E1F22`) com logotipo local (`assets/logo.png`) e imagens locais dedicadas a cada console (`assets/ps2.png` até `assets/xbox.png`).
 - **Ajuste de área segura e navegação:** Layout configurado com `SafeAreaView` e espaçamento inferior para manter os controles de navegação acessíveis acima da barra do sistema Android.
-
+  
+---
 ## Tecnologias utilizadas
 
 - [React Native](https://reactnative.dev/)
@@ -16,7 +17,8 @@ Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** q
 - [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/)
 - [@expo/vector-icons](https://docs.expo.dev/guides/icons/)
-
+- 
+---
 ## Estrutura do projeto
 
 - `assets/` — Logotipo (`logo.png`) e imagens locais dos consoles (`ps2.png` até `xbox.png`).
@@ -36,7 +38,7 @@ Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** q
 
 ### Passo a passo
 
-1. Clone o repositório: `git clone https://github.com/HigorCamposGit/app-consoles.git`
+1. Clone o repositório: `git clone https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app`
 2. Acesse a pasta do projeto: `cd app-consoles`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor do Expo: `npx expo start --tunnel --clear`
