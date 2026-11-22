@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "top-10-consoles",
+    "slug": "top-10-consoles",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1E1F22"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "2"
+    },
+    "android": {
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#1E1F22"
+      },
+      "package": "com.higor.top10consoles"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    }
+  }
+}
