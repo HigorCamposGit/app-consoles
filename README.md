@@ -19,32 +19,38 @@ Aplicação mobile desenvolvida em **React Native**, **Expo** e **TypeScript** q
 
 ## Estrutura do projeto
 
-```text
-app-consoles/
-├── assets/
-│   ├── logo.png
-│   └── ... (imagens dos consoles, de ps2.png a xbox.png)
-├── src/
-│   └── components/
-│       ├── BuyButton/
-│       │   ├── index.tsx
-│       │   └── style.ts
-│       └── CardView/
-│           ├── index.tsx
-│           └── style.ts
-├── App.tsx
-├── app.json
-├── package.json
-└── README.md
-```
+- `assets/` — Logotipo (`logo.png`) e imagens locais dos consoles (`ps2.png` até `xbox.png`).
+- `src/components/BuyButton/` — Componente e estilos do botão de ação.
+- `src/components/CardView/` — Componente e estilos da vitrine e controles de navegação.
+- `App.tsx` — Tela de abertura (splash) e montagem da aplicação.
+- `app.json` — Configurações do Expo, nome, slug, ícone e pacote Android.
+- `package.json` — Dependências e scripts do projeto.
+- `README.md` — Documentação do repositório.
 
----
+## Como executar o projeto localmente
 
-## 🤝 Conecte-se Comigo
+### Pré-requisitos
 
-<p align="center">
-  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
-  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
-</p>
+- [Node.js](https://nodejs.org/) instalado na máquina.
+- Aplicativo **Expo Go** instalado no smartphone (Android ou iOS) para testes via rede ou tunnel.
 
----
+### Passo a passo
+
+1. Clone o repositório: `git clone https://github.com/HigorCamposGit/app-consoles.git`
+2. Acesse a pasta do projeto: `cd app-consoles`
+3. Instale as dependências: `npm install`
+4. Inicie o servidor do Expo: `npx expo start --tunnel --clear`
+5. Escaneie o QR Code exibido no terminal usando o aplicativo **Expo Go** no celular.
+
+## Agradecimentos e créditos
+
+Agradecimento especial ao professor **Felipe Aguiar** e à **Digital Innovation One (DIO)** pelos ensinamentos durante a trilha e pelo projeto base que inspirou esta aplicação:
+
+- Repositório base: [digitalinnovationone/trilha-react-native-expo-lamborghini-app](https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app)
+
+## Autor
+
+Desenvolvido por **Higor de Campos**.
+
+- LinkedIn: [https://www.linkedin.com/in/higor-de-campos-a3187b16b/](https://www.linkedin.com/in/higor-de-campos-a3187b16b/)
+- GitHub: [https://github.com/HigorCamposGit](https://github.com/HigorCamposGit)
